@@ -25,6 +25,7 @@ Create a input color picker as a web component
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/color-picker" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <script src="https://jsuites.net/v4/jsuites.webcomponents.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
