@@ -12,6 +12,7 @@ Simple calendar with format
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/actionsheet" />
 <div id='app' class='app'></div>
 
 <script>
