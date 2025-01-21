@@ -42,6 +42,8 @@ Enter the currency price (Mask: U$ #.##0,00)
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/javascript-mask" />
+
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <div contentEditable='true' data-mask='U$ #.##0,00' style='border: solid 1px black;'></div>
 </html>
