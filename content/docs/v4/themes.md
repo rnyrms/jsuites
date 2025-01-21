@@ -6,6 +6,7 @@ Spreadsheet theme editor
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/themes" />
 <script src="https://jexcel.net/v7/jexcel.js"></script>
 <script src="https://jexcel.net/v7/jsuites.js"></script>
 <link rel="stylesheet" href="https://jexcel.net/v7/jexcel.css" type="text/css" />
