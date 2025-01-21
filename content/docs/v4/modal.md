@@ -20,6 +20,7 @@ This is an example how to create a modal based on the custom HTML javascript mod
   
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/modal" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <script src="https://jsuites.net/v4/jsuites.webcomponents.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
