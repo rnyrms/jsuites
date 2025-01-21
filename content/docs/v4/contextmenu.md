@@ -18,6 +18,7 @@ The `jSuites.contextmenu` is a simple javascript contextmenu that helps to provi
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/contextmenu" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <script src="https://jsuites.net/v4/jsuites.webcomponents.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
