@@ -19,6 +19,8 @@ jSuites is framework-agnostic and seamlessly blends with React, Angular, VueJS, 
 
 ```xml
 <script src="https://cdn.jsdelivr.net/npm/jsuites/dist/jsuites.min.js"></script>
+<link rel="canonical" href="https://jsuites.net/docs/getting-started" />
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsuites/dist/jsuites.min.css" type="text/css" />
 ```
 
