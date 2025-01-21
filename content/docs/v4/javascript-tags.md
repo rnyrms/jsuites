@@ -30,6 +30,7 @@ Basic keywords management input as a javascript web component.
   
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/javascript-tags" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <script src="https://jsuites.net/v4/jsuites.webcomponents.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
