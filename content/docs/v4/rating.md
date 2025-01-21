@@ -23,6 +23,7 @@ Considering the example below:
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/rating" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
 
