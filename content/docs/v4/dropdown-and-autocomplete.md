@@ -32,6 +32,8 @@ Create a dropdown autocomplete with a large data source (20K options)
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/dropdown-and-autocomplete" />
+
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
 
