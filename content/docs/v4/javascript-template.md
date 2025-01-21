@@ -14,6 +14,7 @@ Shopping template rendering example
   
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/javascript-template" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
 
