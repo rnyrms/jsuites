@@ -19,6 +19,7 @@ Click in space below to upload a image
 
 ```html
 <html>
+<link rel="canonical" href="https://jsuites.net/docs/image-cropper" />
 <script src="https://jsuites.net/v4/jsuites.js"></script>
 <link rel="stylesheet" href="https://jsuites.net/v4/jsuites.css" type="text/css" />
 <script src="https://cdn.jsdelivr.net/npm/@jsuites/cropper/cropper.min.js"></script>
