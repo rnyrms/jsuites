@@ -1,4 +1,4 @@
-title: JavaScript Calendar
+title: JavaScript Calendar - jSuites | Javascript Plugins
 keywords: JavaScript, jSuites, Calendar, Date Picker, DateTime Picker, Responsive Calendar
 description: Discover jSuites Calendar, a lightweight, responsive JavaScript Calendar plugin for seamless date and datetime picking.
 canonical: https://jsuites.net/docs/javascript-calendar
@@ -7,7 +7,7 @@ canonical: https://jsuites.net/docs/javascript-calendar
 
 # JavaScript Calendar
 
-The jSuites Calendar is a lightweight JavaScript Calendar plugin and web component crafted to facilitate the creation of calendar
+jSuites Calendar is a lightweight **JavaScript Calendar** plugin and web component crafted to facilitate the creation of calendar
 components. It supports date selection, date pickers, and datetime pickers. Engineered for an outstanding user experience,
 it ensures compatibility across various devices.
 
